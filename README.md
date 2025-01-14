@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Developer** with exper
 ---
 
 ## 🌐 Let's Connect:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyoofhussein/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyoofhussein/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white)](https://github.com/Reyoof11)  
 
 ---
